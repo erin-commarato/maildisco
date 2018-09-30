@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "getMailbox-executor",
+    "name": "getMailbox",
+    "region": "us-east-1"
+  }
+}

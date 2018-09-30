@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "createMailbox-executor",
+    "name": "createMailbox",
+    "region": "us-east-1"
+  }
+}
